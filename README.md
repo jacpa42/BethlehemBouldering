@@ -16,7 +16,7 @@ Here is the [precise location](https://maps.app.goo.gl/9GXsPRcMXdio4FMZ6) of the
 
 ## Routes
 
-Here are all the sides of the boulders and their routes
+Here are all the sides of the boulders and their routes. The star ratings are out of ⭐⭐⭐ and *ss* means sit start.
 
 ### Left Side
 
