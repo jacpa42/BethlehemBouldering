@@ -6,7 +6,7 @@ A simple guide to bouldering on my farm.
 
 Iben asked me to make this for anyone interested in bouldering at my farm. This should help anyone who aspires to that goal.
 
-As the boulder sits in [Bethlehem Plaas](https://maps.app.goo.gl/TPZWeMC4AntFpdBFA), opening hours vary. However, when the farm is open you are free to walk in to the boulder without my knowledge. If you want to get *car access*, please contact myself at <jacobenthoven@gmail.com>. More in depth access information is contained below.
+As the boulder sits in [Bethlehem Plaas](https://maps.app.goo.gl/TPZWeMC4AntFpdBFA), opening hours vary. However, when the farm is open you are free to walk in to the boulder without my knowledge. If you want to get *car access*, please contact me at <jacobenthoven@gmail.com>. More in depth access information is contained below.
 
 ## Access and Location
 
@@ -32,7 +32,7 @@ Start as for Dark Side. Do a hard move to a crimp and mantel out right.
 
 Morpho! Stand up on bad undercling and find the hold.
 
-#### 4. There is a spoon **project** ⭐
+##### 4. There is a spoon **project** ⭐
 
 Jeremy has gotten close. Bad gaston in the overhang is the only hope.
 
