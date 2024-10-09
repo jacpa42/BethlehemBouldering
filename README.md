@@ -20,6 +20,14 @@ Here are all the sides of the boulders and their routes
 
 ### Left Side
 
+#### 1
+
+#### 2
+
+#### 3
+
+#### 4
+
 ![My Image](./assets/left.png)
 
 ### Main Face
