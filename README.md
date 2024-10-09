@@ -20,11 +20,11 @@ Here are all the sides of the boulders and their routes
 
 ### Left Side
 
-#### 1. Dark Side 6a (Jacob) ⭐⭐⭐
+#### 1. Dark Side 6a (Jacob) *ss* ⭐⭐⭐
 
 A nice warmup. Start on obvious jug with bad feet and traverse around the corner on underclings. Spicy finish!
 
-#### 2. Font 6b 7a (Jeremy) ⭐⭐
+#### 2. Font 6b 7a (Jeremy) *ss* ⭐⭐
 
 Start as for Dark Side. Do a hard move to a crimp and mantel out right.
 
@@ -32,11 +32,11 @@ Start as for Dark Side. Do a hard move to a crimp and mantel out right.
 
 Morpho! Stand up on bad undercling and find the hold.
 
-##### 4. There is a spoon **project** ⭐
+#### 4. There is a spoon **project** ⭐
 
-Jeremy has gotten close. Bad gaston in the overhang is the only hope.
+Jeremy has gotten close. Bad gaston in the overhang is the only hope. Start on the ledge.
 
-#### 5. Ladyboy 7b (Jacob) ⭐⭐⭐
+#### 5. Ladyboy 7b (Jacob) *ss* ⭐⭐⭐
 
 The best climb on the bloc! Sit start on the jug and climb straight up. Big committing move of a bad crimp to finish.
 
@@ -48,7 +48,7 @@ An easier version of lady boy. Start on the ledge and traverse right until you c
 
 An easier version of Paddaman Start as Ladyboy left and traverse right to finish as Paddaman.
 
-#### 8. Paddaman 8a (Ben) ⭐⭐⭐
+#### 8. Paddaman 8a (Ben) *ss* ⭐⭐⭐
 
 The 👑 line! Start as Ladyboy and break into the middle of the face of the crimp. Finish straight up off a large move on the slopey gaston.
 
@@ -56,23 +56,23 @@ The 👑 line! Start as Ladyboy and break into the middle of the face of the cri
 
 ### Main Face
 
-#### 9. Paddawan 7c (Jacob) ⭐
+#### 9. Paddawan 7c (Jacob) *ss* ⭐
 
 Climb as Paddaman until the final move and exit onto the right arete via thin holds and high heel. Easier but more committing than Paddaman.
 
-#### 10. Full Frontal 7c (Ben) ⭐⭐⭐
+#### 10. Full Frontal 7c (Ben) *ss* ⭐⭐⭐
 
 Start as Ladybug and pull into Paddaman via a large jug in the face.
 
-#### 11. Drag 7a (Jacob) ⭐
+#### 11. Drag 7a (Jacob) *ss* ⭐
 
 Start as Ladyboy and finish as Ladybug via the large jug in the face.
 
-#### 12. Ladybug 6c (Jacob) ⭐⭐⭐
+#### 12. Ladybug 6c (Jacob) *ss* ⭐⭐⭐
 
 Dyno out to the sloper in the face and follow the seam right.
 
-#### 13. The inner machinations of my mind are an enigma 7a+ (Jacob) ⭐
+#### 13. The inner machinations of my mind are an enigma 7a+ (Jacob) *ss* ⭐
 
 The first climb done on the bloc. Do a big move out left and finish on the right side of the boulder via some fun compression.
 
@@ -80,7 +80,7 @@ The first climb done on the bloc. Do a big move out left and finish on the right
 
 ### Right Side
 
-#### 14. Dogshit 7b (Jacob)
+#### 14. Dogshit 7b *ss* (Jacob)
 
 Truly unremarkable. Only look at this once you have done everything else.
 
