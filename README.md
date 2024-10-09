@@ -18,6 +18,10 @@ Here is the [precise location](https://maps.app.goo.gl/9GXsPRcMXdio4FMZ6) of the
 
 Here are all the sides of the boulders and their routes
 
+### Left Side
+
+![My Image](./assets/left.png)
+
 ### Main Face
 
 ![My Image](./assets/main.png)
@@ -25,7 +29,3 @@ Here are all the sides of the boulders and their routes
 ### Right Side
 
 ![My Image](./assets/right.png)
-
-### Left Side
-
-![My Image](./assets/left.png)
