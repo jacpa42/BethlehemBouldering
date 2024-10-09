@@ -26,14 +26,34 @@ Here are all the sides of the boulders and their routes
 
 #### 3 Golden Boy 7b+ (Dom)
 
-#### 4 There is a spoon (*project*)
+#### 4 There is a spoon **project**
+
+#### 5 Lady boy 7b (Jacob)
+
+#### 6 Lady boy left 7a (Jacob)
+
+#### 7 Paddaman left 7c+ (Ben)
+
+#### 8 Paddaman 8a (Ben)
 
 ![My Image](./assets/left.png)
 
 ### Main Face
 
+#### 9 Paddawan 7c (Jacob)
+
+#### 10 Full Frontal 7c (Ben)
+
+#### 11 Drag 7a (Jacob)
+
+#### 12 Ladybug 6c (Jacob)
+
+#### 13 The inner machinations of my mind are an enigma 7a+ (Jacob)
+
 ![My Image](./assets/main.png)
 
 ### Right Side
+
+#### 14 Dogshit 7b (Jacob)
 
 ![My Image](./assets/right.png)
