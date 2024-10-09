@@ -20,13 +20,13 @@ Here are all the sides of the boulders and their routes
 
 ### Left Side
 
-#### 1
+#### 1 Dark side 6a (Jacob)
 
-#### 2
+#### 2 Font 6b 7a (Jeremy)
 
-#### 3
+#### 3 Golden Boy 7b+ (Dom)
 
-#### 4
+#### 4 There is a spoon (*project*)
 
 ![My Image](./assets/left.png)
 
