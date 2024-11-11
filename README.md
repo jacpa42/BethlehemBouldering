@@ -48,7 +48,7 @@ An easier version of lady boy. Start on the ledge and traverse right until you c
 
 An easier version of Paddaman Start as Ladyboy left and traverse right to finish as Paddaman.
 
-#### 8. Paddaman 8a (Ben) *ss* ⭐⭐⭐
+#### 8. Paddaman 7c+ (Ben) *ss* ⭐⭐⭐
 
 The 👑 line! Start as Ladyboy and break into the middle of the face of the crimp. Finish straight up off a large move on the slopey gaston.
 
@@ -72,7 +72,7 @@ Start as Ladyboy and finish as Ladybug via the large jug in the face.
 
 Dyno out to the sloper in the face and follow the seam right.
 
-#### 13. The inner machinations of my mind are an enigma 7a+ (Jacob) *ss* ⭐
+#### 13. The inner machinations of my mind are an enigma 7a (Jacob) *ss* ⭐
 
 The first climb done on the bloc. Do a big move out left and finish on the right side of the boulder via some fun compression.
 
