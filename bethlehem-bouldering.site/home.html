@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bethlehem Bouldering</title>
+  <link rel="stylesheet" href="./css/home.css">
+  <link rel="stylesheet" href="https://use.typekit.net/jdx8ftv.css">
+  <link rel="icon" type="image/png" href="./imgs/logo.png">
+</head>
+<body>
+
+  <!-- NAV BAR -->
+  <nav class="navbar">
+    <ul class="nav-links">
+      <li><a href="#home">Home</a></li>
+      <li><a href="#details">Details</a></li>
+      <li><a href="#navigation">Navigation</a></li>
+      <li><a href="#routes">Routes</a></li>
+    </ul>
+  </nav>
+
+  <!-- HOME -->
+  <section id="home" class="section hero">
+    <img src="./imgs/mtn.png" alt="Background" class="hero-bg">
+    <img src="./imgs/logo.png" alt="bethlehem-boulder" class="logo">
+  </section>
+
+
+  <section id="details" class="section details-section">
+    <div class="details-container">
+
+      <!-- Left image -->
+      <div class="details-column image-column">
+        <img src="./imgs/park.png" alt="Parking Lot" class="details-image">
+      </div>
+
+      <div class="details-column text-column">
+        <h2>DETAILS</h2>
+        <p class="subtitle">Background & Information</p>
+        <p>Iben asked me to make this for anyone interested in bouldering at my farm. This should help anyone who aspires to that goal.
+          <br><br>
+          As the boulder sits in Bethlehem Plaas, opening hours vary. However, when the farm is open you are free to walk in to the boulder 
+          without my knowledge. If you want to get car access, please contact me at <strong><a href="mailto:jacobenthoven@gmail.com">jacobenthoven@gmail.com</a></strong>.
+          <br><br>
+          Here is the precise location of the boulder. The standard route to get there by foot (for car access please contact me).</p>
+
+        <div class="details-arrows">
+          <div class="arrow-left">Parking</div>
+          <div class="arrow-right">Boulder Trail</div>
+        </div>
+      </div>
+
+      <!-- Right image -->
+      <div class="details-column image-column">
+        <img src="./imgs/trail.png" alt="Boulder Trail" class="details-image">
+      </div>
+
+    </div>
+  </section>
+
+
+
+
+  <!-- NAVIGATION SECTION -->
+  <section id="navigation" class="section navigation-section">
+
+    <div class="navigation-bar">
+      <div class="nav-title">NAVIGATION</div>
+      <div class="nav-subtitle">Map to the boulder</div>
+    </div>
+
+    <a href="https://maps.app.goo.gl/cFe6CgAjv9JBTZB26" target="_blank" class="map-link">
+      <div class="map-gif">      
+        <video
+        autoplay
+        muted
+        loop
+        playsinline
+      >
+        <source id="nav-video-source" src="./vids/navmap.mp4" type="video/mp4">
+      </video></div>
+    </a>
+
+  </section>
+
+
+
+  <!-- ROUTES SECTION -->
+  <section id="routes" class="routes-layout">
+
+    <!-- Left Column -->
+    <div class="left-column">
+      <h1 class="page-title">ROUTES</h1>
+
+      <nav class="face-nav">
+        <button class="face-link active" data-face="left">Left Face</button>
+        <button class="face-link" data-face="main">Main Face</button>
+        <button class="face-link" data-face="right">Right Face</button>
+      </nav>
+
+      <div class="route-info">
+        <h2 id="route-title">Route 1</h2>
+        <p id="route-description">
+          This is the description for Route 1.
+        </p>
+      </div>
+    </div>
+
+    <!-- VERTICAL ROUTE NAV -->
+    <div class="route-nav" id="routeNav">
+    </div>
+    <!-- Right Column -->
+    <div class="video-column">
+      <video
+        id="route-video"
+        autoplay
+        muted
+        loop
+        playsinline
+      >
+        <source id="route-video-source" src="./vids/map_1.mp4" type="video/mp4">
+      </video>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <img src="./imgs/logo.png" alt="Bethlehem Bouldering logo" class="footer-logo">
+    <p>© 2026 Bethlehem Bouldering</p>
+  </footer>
+  <script src="./js/routes.js"></script>
+
+</body>
+</html>
