@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Bethlehem Bouldering</title>
   <link rel="stylesheet" href="./css/home.css">
-  <link rel="stylesheet" href="https://use.typekit.net/jdx8ftv.css">
   <link rel="icon" type="image/png" href="./imgs/logo.png">
+
 </head>
 <body>
 
@@ -36,7 +36,7 @@
       </div>
 
       <div class="details-column text-column">
-        <h2>DETAILS</h2>
+        <p class="details-title">DETAILS</p>
         <p class="subtitle">Background & Information</p>
         <p>Iben asked me to make this for anyone interested in bouldering at my farm. This should help anyone who aspires to that goal.
           <br><br>
@@ -79,7 +79,8 @@
         playsinline
       >
         <source id="nav-video-source" src="./vids/navmap.mp4" type="video/mp4">
-      </video></div>
+      </video>
+    </div>
     </a>
 
   </section>
@@ -91,7 +92,7 @@
 
     <!-- Left Column -->
     <div class="left-column">
-      <h1 class="page-title">ROUTES</h1>
+      <p class="page-title">ROUTES</p>
 
       <nav class="face-nav">
         <button class="face-link active" data-face="left">Left Face</button>
@@ -100,8 +101,8 @@
       </nav>
 
       <div class="route-info">
-        <h2 id="route-title">Route 1</h2>
-        <p id="route-description">
+        <p class="route-title" id="route-title">Route 1</p>
+        <p id="route-description" class="route-description">
           This is the description for Route 1.
         </p>
       </div>
@@ -114,13 +115,13 @@
     <div class="video-column">
       <video
         id="route-video"
-        autoplay
         muted
         loop
         playsinline
-      >
-        <source id="route-video-source" src="./vids/map_1.mp4" type="video/mp4">
-      </video>
+        webkit-playsinline
+        preload="auto"
+      ></video>
+
     </div>
   </section>
 
@@ -129,7 +130,9 @@
     <img src="./imgs/logo.png" alt="Bethlehem Bouldering logo" class="footer-logo">
     <p>© 2026 Bethlehem Bouldering</p>
   </footer>
+
   <script src="./js/routes.js"></script>
+
 
 </body>
 </html>

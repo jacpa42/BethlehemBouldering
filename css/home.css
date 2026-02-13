@@ -13,15 +13,15 @@ html {
   font-family: 'Inter';
   src: url(../fonts/Inter-VariableFont_opsz\,wght.ttf);
 }
-
 @font-face {
   font-family: 'Futura';
   src: url(../fonts/FuturaCyrillicBook.ttf);
 }
 
+
 body {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
   color: #111;
+  font-family: 'Inter';
 }
 
 /* NAV BAR */
@@ -46,7 +46,6 @@ body {
 }
 
 .nav-links {
-  font-family: 'Futura';
   list-style: none;
   display: flex;
   gap: 80px;
@@ -109,7 +108,7 @@ body {
 /* RESPONSIVE BACKGROUND IMAGE */
 @media (max-width: 768px) {
   .hero {
-    background-image: url("/imgs/mtn.png");
+    background-image: url("../imgs/mtn.png");
   }
 
   .nav-links {
@@ -209,7 +208,6 @@ body {
 
 /* Text column (Column 2) */
 .text-column {
-  font-family: 'Futura';
   letter-spacing: 0.03em;
   flex: 0.6;
   display: flex;
@@ -217,9 +215,10 @@ body {
   justify-content: center;
 }
 
-.text-column h2 {
+.details-title {
   margin-bottom: 12px;
-  font-size: 32px;
+  font-size: 60px;
+  letter-spacing: 0.03em;
 }
 
 .text-column a {
@@ -288,9 +287,11 @@ body {
     padding: 0 10px;     
   }
 
-    .text-column h2 {
-    font-size: 28px;     
+  .details-title {
+    font-size: 24px;     
     margin-bottom: 16px;
+    margin-bottom: 20px; 
+    line-height: 1.6;
   }
 
   .text-column .subtitle {
@@ -298,11 +299,6 @@ body {
     margin-bottom: 12px;
   }
 
-  .text-column p {
-    font-size: 14px;
-    line-height: 1.6;
-    margin-bottom: 20px; 
-  }
 
   .details-arrows {
     display: none;       
@@ -332,8 +328,6 @@ body {
 
 .nav-title {
   font-size: 32px;
-  font-weight: 600;
-  font-family: 'Futura';
   letter-spacing: 0.03em;
   margin-bottom: 6px; 
 }
@@ -342,7 +336,6 @@ body {
 .nav-subtitle {
   font-size: 18px;
   font-weight: 400;
-  font-family: 'Futura';
   opacity: 0.8; 
 }
 
@@ -385,18 +378,12 @@ body {
   .navigation-section {
     min-height: auto;
   }
-}
 
-
-@media (max-width: 768px) {
   .map-gif {
     height: 45vh;
     min-height: 280px;
   }
-}
 
-
-@media (max-width: 768px) {
   .nav-title {
     font-size: 24px;
   }
@@ -413,7 +400,7 @@ body {
 
 .routes-layout {
   display: flex;
-  width: 100vw;
+  width: 100%;
   height: 1080px;
 }
 
@@ -429,7 +416,6 @@ body {
 .page-title {
   font-size: 32px;
   margin-bottom: 24px;
-  font-family: 'Futura';
   letter-spacing: 0.03em;
 }
 
@@ -440,16 +426,19 @@ body {
 }
 
 .face-link {
+  color: #111;          /* force black */
   background: none;
-  font-family: 'Futura';
   border: none;
   font-size: 18px;
   cursor: pointer;
   text-decoration: underline;
+  -webkit-appearance: none;
+  appearance: none;
+  font-family: 'Futura';
 }
 
 .face-link.active {
-  font-weight: bold;
+  color: #111;
 }
 
 .route-info {
@@ -459,12 +448,18 @@ body {
   transform: translateY(-500px); 
 }
 
-.route-info h2 {
+.route-title {
   text-decoration: underline;
   margin-bottom: 16px;
   text-align: left;
-  font-family: 'Futura';
-  letter-spacing: 0.05em;
+  letter-spacing: 0.03em;
+  font-size: 20px;
+}
+
+.route-description {
+  text-align: left;
+  font-size: 18px;
+
 }
 
 /* VERTICAL ROUTE NAV */
@@ -517,9 +512,8 @@ body {
 
 /* VIDEO COLUMN */
 .video-column {
-  flex: 1;
-  height: 1080px;
-  background: #fff;
+  width: 100%;
+  height: 250px;  /* fixed height so video displays */
 }
 
 .video-column video {
@@ -528,7 +522,6 @@ body {
   object-fit: cover;
   display: block;
 }
-
 
 
 /* MOBILE LAYOUT FOR ROUTES SECTION */
@@ -545,6 +538,10 @@ body {
     padding: 20px;
   }
 
+  .page-title {
+    font-size: 24px;
+  }
+
   .face-nav {
     display: flex;
     flex-wrap: wrap;
@@ -555,28 +552,23 @@ body {
 
   .face-link {
     text-decoration: underline;
-    font-size: 14px;
+    font-size: 18px;
     padding: 4px 8px;
   }
 
-  .face-link.active {
-    font-weight: bold;
+  .route-title {
+    font-size: 18px;
+    text-decoration: underline;
+    margin-bottom: 8px;
   }
-
 
   .route-info {
     transform: translate(0px, 0px);
   }
 
 
-  .route-info h2 {
-    font-size: 20px;
-    text-decoration: underline;
-    margin-bottom: 8px;
-  }
-
-  .route-info p {
-    font-size: 14px;
+  .route-description {
+    font-size: 16px;
     line-height: 1.5;
   }
 
@@ -601,7 +593,6 @@ body {
     cursor: pointer;
     font-size: 16px;
     text-align: center;
-    font-family: 'Futura';
   }
 
   .route-btn:last-child {
@@ -615,16 +606,18 @@ body {
 
   .video-column {
     width: 100%;
-    height: 250px;         
-    background: black;
-    margin: 0;             
+    position: relative;
+    padding-top: 125%; /* 4:5 ratio (taller) */
   }
 
   .video-column video {
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
     height: 100%;
     object-fit: cover;
-    display: block;
+    cursor: pointer;
   }
 }
 
@@ -676,8 +669,9 @@ body {
     flex: 0.8; 
   }
 
-  .text-column h2 {
-    font-size: 30px;
+  .details-title {
+    font-size: 20px;
+    font-family: "futura-pt", sans-serif;
   }
 
   .text-column p {
@@ -717,7 +711,7 @@ body {
   }
 
   .page-title {
-    font-size: 28px;
+    font-size: 20px; 
   }
 
   .face-nav {
@@ -788,11 +782,11 @@ body {
     flex: 0.7;
   }
 
-  .text-column h2 {
-    font-size: 36px;
+  .details-title{
+    font-size: 32px;
   }
 
-  .text-column p {
+  .subtitle {
     font-size: 17px;
     line-height: 1.7;
   }
