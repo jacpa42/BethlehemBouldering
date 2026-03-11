@@ -20,7 +20,7 @@ Here are all the sides of the boulders and their routes. The star ratings are ou
 
 ### Left Side
 
-![My Image](./assets/left.png)
+![Left Side](https://github.com/jacpa42/BethlehemBouldering/blob/main/assets/left.jpg)
 
 |no.|stars|first ascensionist|description|
 |-|-|-|-|
@@ -36,7 +36,8 @@ Here are all the sides of the boulders and their routes. The star ratings are ou
 
 ### Main Face
 
-![My Image](./assets/main.png)
+![Main Face](https://github.com/jacpa42/BethlehemBouldering/blob/main/assets/main.jpg)
+
 |no.|stars|first ascensionist|description|
 |-|-|-|-|
 |9.| Ladyboy Left 7b ⭐|Dom| Same as Ladyboy, but peel out left before the top moves.|
@@ -53,7 +54,8 @@ Here are all the sides of the boulders and their routes. The star ratings are ou
 
 ### Right Side
 
-![My Image](./assets/right.png)
+![Main Face](https://github.com/jacpa42/BethlehemBouldering/blob/main/assets/right.jpg)
+
 |no.|stars|first ascensionist|description|
 |-|-|-|-|
 |19.| Guillotine 6b ⭐|Dom| Great for the girlfriends ;). Crouch start on triangular jug, up to some opposing crimps, and through the holds in the roof to the lip. Perhaps avoid using the big loose block?|
