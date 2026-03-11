@@ -48,7 +48,7 @@ Here are all the sides of the boulders and their routes. The star ratings are ou
 |14.| Clemen Gold 7b+ |⭐⭐|Dom| Climb as Full Frontal but end as Paddawan. Fun linkup.|
 |15.| Drag 7a+ |⭐|Jacob| Start as Ladyboy and finish as Ladybug via the large jug in the face. |
 |16.| Ladybug 6c |⭐⭐⭐|Jacob| Dyno out to the sloper in the face and follow the seam right.|
-|17.| The Inner Machinations of my Mind are an Enigma 7a |⭐⭐|Jacob|  The first climb done on the bloc. Climb straight up the arete via some fun compression.|
+|17.| The Inner Machinations of my Mind are an Enigma 7a |⭐⭐|Luke Eberhard|  The first climb done on the bloc. Climb straight up the arete via some fun compression.|
 |18.| Black Belt 7b+ |⭐⭐|Dom| Another obscure line. Crouch start, into two small side pulls, out to a sloping rail, and then karate kick out left before the lip. Fun one!|
 
 
@@ -58,6 +58,6 @@ Here are all the sides of the boulders and their routes. The star ratings are ou
 
 |no.|name|stars|first ascensionist|description|
 |-|-|-|-|-|
-|19.| Guillotine 6b |⭐|Dom| Great for the girlfriends ;). Crouch start on triangular jug, up to some opposing crimps, and through the holds in the roof to the lip. Perhaps avoid using the big loose block?|
+|19.| Guillotine 6b |⭐|Bastie| Great for the girlfriends ;). Crouch start on triangular jug, up to some opposing crimps, and through the holds in the roof to the lip. Perhaps avoid using the big loose block?|
 |20.| Dogshit 7b | |Jacob| Sit start with an undercling, out left to a rail and a small pocket, into compression. Top-out as Guillotine.|
 |21.| Turn the other cheek 6a | |Dom| Again, great for the girlfriends ;). Traverse up the slopers on the edge. Top-out as Guillotine.|
