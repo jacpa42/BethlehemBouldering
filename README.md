@@ -29,7 +29,7 @@ Here are all the sides of the boulders and their routes. The star ratings are ou
 |3.| Understand 7c | ⭐⭐|+Dom| Stand start to Standunder. Starts left hand on thin crimp, and right hand on a sloper.|
 |4.| Standunder 7c+ | ⭐⭐⭐|Dom| Visionary line. Sit start to Understand. Starts sitting, a few moves till you use an obscure undercling with a perfect body position that unlocks this vision.|
 |5.| The last melon project|`?`|`?`| The only possible remaining project on this boulder. Lets see what the future holds...|
-|6.| C'est la vie |⭐⭐|Dom|  An optional extra. Starts on the ledge, using a sidepull-undercling and an obscure kneebar to unlock the move to the sloper on the lip. Traverse right into Golden Boy.|
+|6.| C'est la vie 7b+ |⭐⭐|Dom|  An optional extra. Starts on the ledge, using a sidepull-undercling and an obscure kneebar to unlock the move to the sloper on the lip. Traverse right into Golden Boy.|
 |7.| Golden Boy 7b+ |⭐⭐|Dom| Morpho! Stand up on bad undercling and use sloper on the lip and reach to find the hold. Alternative beta is to use a heel toe cam and match the sloper. Same difficulty both ways.|
 |8.| Early Bird Gets the Worm 8a |⭐⭐|Dom| The bad gaston in the spoon is sufficient! Start on the ledge, move up right to a semi gaston pinch with the right hand, into the small gaston in the spoon.|
 
