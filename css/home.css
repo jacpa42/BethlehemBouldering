@@ -339,6 +339,12 @@ body {
   opacity: 0.8; 
 }
 
+.nav-directions {
+  font-size: 14px;
+  font-weight: 400;
+  opacity: 0.8;
+}
+
 
 .map-link {
   display: block; 
