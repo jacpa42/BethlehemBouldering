@@ -340,7 +340,8 @@ body {
 }
 
 .nav-directions {
-  font-size: 14px;
+  padding-top: 2px;
+  font-size: 16px;
   font-weight: 400;
   opacity: 0.8;
 }
